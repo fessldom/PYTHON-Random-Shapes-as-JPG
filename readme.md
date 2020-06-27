@@ -2,7 +2,7 @@
 
 ### Features
  - Create either rectangles, triangle or ellipses
- - The shapes are shape randomly(to an extent)
+ - The shapes are shaped randomly(to an extent)
  - The shapes are colored randomly
 ### Purpose
 I created these three scripts for a coursera course on machine learning but maybe someone else can use this.
